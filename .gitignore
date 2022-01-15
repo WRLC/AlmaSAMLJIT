@@ -1,0 +1,2 @@
+# ignore xml files used for testing
+*.xml
