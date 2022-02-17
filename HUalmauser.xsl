@@ -57,7 +57,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saml2="urn:oasis:names:tc
     <campus_code>HUHS</campus_code>
     <rs_libraries>
         <rs_library>
-            <code>HUSL</code>
+            <code>HULS</code>
         </rs_library>
     </rs_libraries>
     <expiry_date>2022-08-30Z</expiry_date>
@@ -68,7 +68,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saml2="urn:oasis:names:tc
     <campus_code>HUHS</campus_code>
     <rs_libraries>
         <rs_library>
-            <code>HUSL</code>
+            <code>HULS</code>
         </rs_library>
     </rs_libraries>
     <expiry_date>2022-08-30Z</expiry_date>
@@ -79,7 +79,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saml2="urn:oasis:names:tc
     <campus_code>HUHS</campus_code>
     <rs_libraries>
         <rs_library>
-            <code>HUSL</code>
+            <code>HULS</code>
         </rs_library>
     </rs_libraries>
     <expiry_date>2022-08-30Z</expiry_date>
@@ -90,7 +90,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saml2="urn:oasis:names:tc
     <campus_code>HUHS</campus_code>
     <rs_libraries>
         <rs_library>
-            <code>HUSL</code>
+            <code>HULS</code>
         </rs_library>
     </rs_libraries>
     <expiry_date>2022-08-30Z</expiry_date>
@@ -145,7 +145,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saml2="urn:oasis:names:tc
     <campus_code>HUHS</campus_code>
     <rs_libraries>
         <rs_library>
-            <code>HUSL</code>
+            <code>HULS</code>
         </rs_library>
     </rs_libraries>
     <expiry_date>2022-08-30Z</expiry_date>
