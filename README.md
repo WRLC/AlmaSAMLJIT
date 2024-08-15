@@ -1,7 +1,7 @@
 # AlmaSAMLJIT
-Alma SAML JIT user provisioning configuration
+Alma SAML Just-In-Time user provisioning configuration
 
-XSL Transformation scripts for JIT SAML provisioning of user accounts.
+XSL Transformation scripts for JIT SAML provisioning of user accounts
 
 ## Testing and development
 Here is a good basic introduction to XSLT: https://www.w3schools.com/xml/xsl_intro.asp
@@ -16,6 +16,13 @@ Once you have that SAML response in an XML file, test your transformation like s
 ```
 xsltproc HUalmauser.xsl SAMLresponse.xml | xmllint --format -
 ```
+
+## Installing XSL Transformation scripts
+To configure SAML JIT user provisioning, go to the SAML profile in Alma **Configuration > General > Integration Profiles**. In the **Self Registration** section (at the bottom) select the *Active* radio button and the *Update user upon login* checkbox to enable JIT provisioning.
+
+Click the folder icon button next to *XSL configuration file*, Open your XSLT file and click *Save* to install the XSLT script.
+
+In the same way you can install an updated XSLT script when it says a file exists. For example, Howard's JIT configuration has to be updated every year (usually the first week or two of August) to update the hard-coded Expiry and Purge dates for another year out (eg. 2026 -> 2027).
 
 ## Alma documentation
 * [Alma SAML Integration Profile](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/090Integrations_with_External_Systems/060Authentication/020SAML-Based_Single_Sign-On_Sign-Off)
