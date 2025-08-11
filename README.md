@@ -29,3 +29,4 @@ In the same way you can install an updated XSLT script when it says a file exist
 * [SAML JIT Configuration Sample](https://developers.exlibrisgroup.com/blog/saml-jit-just-in-time-configuration-sample/)
 * [Alma User Record Data Dictionary](https://developers.exlibrisgroup.com/alma/apis/docs/xsd/rest_user.xsd/)
 
+note: ARK has completed on 8/1/2025
